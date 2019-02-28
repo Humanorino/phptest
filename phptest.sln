@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "phptest", "..\..\..\..\..\Users\Administrator\source\repos\phptest\phptest\phptest.phpproj", "{DE878AFB-751C-4CA1-AB9E-3F87A8FD1E56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE878AFB-751C-4CA1-AB9E-3F87A8FD1E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE878AFB-751C-4CA1-AB9E-3F87A8FD1E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52D9D5FE-6869-49BE-975D-BD3064C010F4}
+	EndGlobalSection
+EndGlobal
